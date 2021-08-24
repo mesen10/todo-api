@@ -38,8 +38,10 @@ git checkout -b user-role-enhancements
 6. Push your changes to GitHub and create a PR against the master branch, linking the PR to any relevant issues.
 
 ##Sample Requests and Responses
+.
 
 ###Post http://localhost:3000/item
+
 `{
 "name": "Item 10"
 }`
